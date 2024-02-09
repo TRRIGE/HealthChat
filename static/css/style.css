@@ -18,7 +18,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Nunito", sans-serif;
+  font-family: 'Quicksand', sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -173,8 +173,7 @@ section {
   font-weight: 700;
   letter-spacing: 1px;
   color: #012970;
-  font-family: "Nunito", sans-serif;
-  margin-top: 3px;
+font-family: 'Quicksand', sans-serif;  margin-top: 3px;
 }
 
 
@@ -199,8 +198,7 @@ section {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Nunito", sans-serif;
-  font-size: 16px;
+font-family: 'Quicksand', sans-serif;  font-size: 16px;
   font-weight: 700;
   color: #013289;
   white-space: nowrap;
@@ -426,8 +424,7 @@ section {
 }
 
 .hero .btn-get-started span {
-  font-family: "Nunito", sans-serif;
-  font-weight: 600;
+font-family: 'Quicksand', sans-serif;  font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
 }
@@ -516,8 +513,7 @@ section {
 }
 
 .about .btn-read-more span {
-  font-family: "Nunito", sans-serif;
-  font-weight: 600;
+font-family: 'Quicksand', sans-serif;  font-weight: 600;
   font-size: 16px;
   letter-spacing: 1px;
 }
@@ -593,8 +589,7 @@ section {
 .counts .count-box p {
   padding: 0;
   margin: 0;
-  font-family: "Nunito", sans-serif;
-  font-size: 14px;
+font-family: 'Quicksand', sans-serif;  font-size: 14px;
 }
 
 
@@ -944,8 +939,7 @@ section {
   transition: none;
   font-size: 16px;
   font-weight: 400;
-  font-family: "Nunito", sans-serif;
-  font-weight: 600;
+font-family: 'Quicksand', sans-serif;  font-weight: 600;
   transition: 0.3s;
   border: 1px solid #4154f1;
 }
@@ -2218,16 +2212,14 @@ section {
   font-weight: 700;
   letter-spacing: 1px;
   color: #012970;
-  font-family: "Nunito", sans-serif;
-  margin-top: 3px;
+font-family: 'Quicksand', sans-serif;  margin-top: 3px;
 }
 
 .footer .footer-top .footer-info p {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Nunito", sans-serif;
-}
+font-family: 'Quicksand', sans-serif;}
 
 .footer .footer-top .social-links a {
   font-size: 20px;

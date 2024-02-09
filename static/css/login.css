@@ -11,8 +11,7 @@
 }
 
 @font-face {
-  font-family: Poppins-Bold;
-  src: url('../fonts/poppins/Poppins-Bold.ttf'); 
+font-family: 'Quicksand', sans-serif;  src: url('../fonts/poppins/Poppins-Bold.ttf'); 
 }
 
 @font-face {
@@ -217,8 +216,7 @@ iframe {
 }
 
 .login100-form-title {
-  font-family: Poppins-Bold;
-  font-size: 24px;
+font-family: 'Quicksand', sans-serif;  font-size: 24px;
   color: #333333;
   line-height: 1.2;
   text-align: center;
